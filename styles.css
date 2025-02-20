@@ -32,5 +32,11 @@ body {
 .sectin-image{
     width: 200px;
     height: 200px;
-    
+
 }
+.section-title{
+    font-weight: 30px;
+    margin-top: 0;
+
+}
+
