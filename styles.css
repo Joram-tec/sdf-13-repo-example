@@ -39,4 +39,11 @@ body {
     margin-top: 0;
 
 }
-
+.section{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+}
